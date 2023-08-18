@@ -24,12 +24,6 @@ Developed by: Chandramohan S
 RegisterNumber:  212221223002
 */
 
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by:Yogabharathi.S 
-RegisterNumber: 212222230179 
-*/
-
 import numpy as np
 import matplotlib.pyplot as plt
 
